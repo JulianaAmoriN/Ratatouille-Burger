@@ -41,7 +41,7 @@
 
 ## Sobre o projeto
 <p align="center">
-<img src="https://github.com/JulianaAmoriN/Ratatouille-Burger/blob/main/imageReadme/Ratatouille-logo.png?raw=true" width="50%" height="50%">
+<img src="https://github.com/JulianaAmoriN/Ratatouille-Burger/blob/main/imageReadme/Ratatouille-logo.png?raw=true" width="30%" height="30%">
 </p>
 
 **Ratatouille Burger** foi  desenvolvido durante o **bootcamp da  [Laboratória](https://www.laboratoria.la/br)**. 
