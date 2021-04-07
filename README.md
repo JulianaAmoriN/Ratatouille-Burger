@@ -1,125 +1,85 @@
-# Ratatouille Burger
-![imagem](/imageReadme/Ratatouille-logo.png)
 
-Acesse a aplicação - [aqui](https://sap-005-burger-queen-amber.vercel.app/)
+<h1 align="center">< Ratatouille Burger/> </h1>
+<h3 align="center"> Projeto desenvolvido no bootcamp da Laboratoria </h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+<img src="https://material-ui.com/static/logo_raw.svg" width="50" height="50">
+<img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" width="50" height="50">
+</p>
 
-## Índice
+<p align="center"> 
+<a href="https://github.com/JulianaAmoriN/Ratatouille-Burger"><strong>Explorar Docs</a>
+    ·
+<a href="https://github.com/JulianaAmoriN/Ratatouille-Burger/issues">Reportar Bug</a>
+ ·
+<a href="https://ratatouille-burger.vercel.app/">Deploy</a>
+</p>
 
-- [1. Resumo do projeto](#1-resumo-do-projeto)
-- [2.Protótipo](#2-Prototipo)
-- [3. Planejamento](#3-Planejamento)
-- [4. Desenvolvimento das histórias de usuário](#4-desenvolvimento-das-historias-de-usuarios)
-- [5. Tecnologias Utilizadas](#5-tecnologias-utilizadas)
+<details open="open">
+  <summary><h4>Sumário</h4></summary>
+  <ol>
+    <li>
+      <a href="#sobre-o-projeto">Sobre o projeto</a>
+      <ul>
+        <li><a href="#linguagens-e-ferramentas">Linguagens e Ferramentas</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#aplicativo">Aplicativo</a> 
+       <ul>
+        <li><a href="#link-deploy">Link Deploy</a></li>
+      </ul>
+    </li>
+    <li><a href="#contribua">Contribuidua</a></li>
+    <li><a href="#contato">Contato</a></li>
+    <li><a href="#agradecimento">Agradecimento</a></li>
+  </ol>
+</details>
 
----
+## Sobre o projeto
+<p align="center">
+<img src="https://github.com/JulianaAmoriN/Ratatouille-Burger/blob/main/imageReadme/Ratatouille-logo.png?raw=true" width="50%" height="50%">
+</p>
 
-## 1. Resumo do projeto
+**Ratatouille Burger** foi  desenvolvido durante o **bootcamp da  [Laboratória](https://www.laboratoria.la/br)**. 
 
-Um pequeno restaurante de hambúrgueres chamado Ratatouille Burger está crescendo, 
-e necessitava de uma interface em que se possa realizar pedidos utilizando um _tablet_,e enviá-los para a cozinha para que sejam preparados de forma ordenada e eficiente.
-Os usuários desta aplicação são o cozinheiro e o garçom, portanto, esta aplicação 
-foi desenvolvida com atenção para estes usuários, de tal forma que sua usabilidade
-seja a mais simples possível aos mesmos, sendo que para cada tipo de usuário 
-(cozinha/salão) seja disponibilizada somente a tela necessária para o mesmo poder 
-trabalhar.
+Nele um pequeno restaurante de hambúrgueres, que está crescendo, necessita uma interface em que se possa realizar pedidos utilizando um _tablet_, e enviá-los para a cozinha.
 
-## 2.Protótipo
-O tema da hamburgueria foi inspirado no filme rataoille, que é um filme sobre um ratinho vivendo em Paris que sonha em se tornar um chef de cozinha. Fizemos um prototipo pensando nas cores desta temática, com uma interface simples para que os usuários possam facilmente entender sua usabilidade. 
+O objetivo principal foi fazer uma interface web usando React. Esse framework front-end **mantem a interface e estado sincronizados**. Portanto, toda vez que adicionamos um  _produto_  para um  _pedido_, a interface deve atualizar a lista de pedidos e o total. 
 
-![Alt Text](https://media.giphy.com/media/wNDa1OZtvl6Fi/giphy.gif)
+### Linguagens e Ferramentas 
+Linguagens e ferramentas usadas para elaboração do projeto : 
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img  src="https://img.shields.io/static/v1?label=Trello&message=Agile&color=0368FF" width="100" />  <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
 
-* Protótipo 1 
-Protótipo inicial desenvolvido antes do teste de usabilidade com usuários.
+## Aplicativo
+<p align="center">
+<img src="https://github.com/JulianaAmoriN/Ratatouille-Burger/blob/main/imageReadme/Tela.gif?raw=true" >
+</p>
 
-![imagem](/imageReadme/Slide1.JPG)
-![imagem](/imageReadme/Slide2.JPG)
-![imagem](/imageReadme/Slide3.JPG)
-![imagem](/imageReadme/Slide4.JPG)
+### Link Deploy
+💻👉🏽 [Ratatouille Burguer ](https://ratatouille-burger.vercel.app/)
 
-* Protótipo 2
-Protótipo incorporando o feedback dos usuários,. 
-![imagem](/imageReadme/Prototipo2.png)
-![imagem](/imageReadme/Prototipo2-1.png)
+## Contribua
 
+As contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer são ** muito apreciadas **.
 
-## 3. Planejamento.
-O planejamento foi feito pelo método kanban por sprints, finalizando uma história por sprint. Utilizamos o trello como ferramenta.
-![imagem](/imageReadme/trello.png)
+1. Faça um fork do projeto
+2. Crie seu Feature Branch (`git checkout -b feature / AmazingFeature`)
+3. Faça commit de suas alterações (`git commit -m 'Add some AmazingFeature'`)
+4. Envie para a Branch (`git push origin feature / AmazingFeature`)
+5. Abra uma solicitação pull
 
-## 4. Desenvolvimento das histórias de usuário
+## Contato
 
-* [História de usuário 1]* Usuário deve ter seu perfil (login/senha) para acessar o sistema.
+Juliana Silveira - [Linkedin](https://www.linkedin.com/in/juliana-silveira-nascimento/)- juamorim.sn@gmail.com
 
-Eu como funcionário do restaurante quero entrar na plataforma e ver apenas a tela importante para o meu trabalho.
-
-**Criar perfil*
-
-- [ ] Poder realizar cadastro com e-mail, senha e função.
-- [ ] Poder realizar login com e-mail e senha.
-- [ ] Redirecionar para a tela correta.
-
-
-* [História de usuário 2] Garçom/Garçonete deve poder anotar o seu pedido
-
-Eu como garçom/garçonete quero poder anotar o meu pedido saber o valor de cada
-produto e poder enviar o pedido para a cozinha para ser preparado.
-
-**Anotar pedidos*
-
-- [ ] Digitar o nome do cliente e mesa.
-- [ ] Filtrar _menu_ para _café da manhã_ e _almoço/jantar_.
-- [ ] Adicionar item ao pedido.
-- [ ] Excluir item do pedido.
-- [ ] Mostrar _resumo_ do pedido com todos os itens e o total.
-- [ ] Enviar para a cozinha (isso deve salvar o pedido).
-
-![Alt Text](garcomhall.gif)
-
-* [História de usuário 3] Chefe de cozinha deve ver os pedidos
-
-Eu como chefe de cozinha quero ver os pedidos dos clientes em ordem, poder marcar que estão prontos e poder notificar os garçons/garçonetes que o pedido está pronto para ser entregue ao cliente.
-
-**Ver pedidos na cozinha*
-
-- [ ] Visualizar pedidos pendentes para produção.
-- [ ] Marcar pedido como pronto para entrega.
-- [ ] Ver histórico dos pedidos.
-
-
-* [História de usuário 4] Garçom/Garçonete deve ver os pedidos prontos para servir
-
-Eu como garçom/garçonete quero ver os pedidos que estão prontos para entregá-los rapidamente aos clientes.
-
-**Entrega de pedidos*
-
-- [ ] Visualizar pedidos pendentes para entrega.
-- [ ] Marcar pedido como entregue ao cliente.
-
-![Alt Text](kitchen.gif)
-
-## 5. Tecnologias utilizadas
-
-### API
-
- [Burger Queen API](https://lab-api-bq.herokuapp.com/api-docs/)
-
-#### Framework / biblioteca
-
-- [React](https://reactjs.org/)
-
-#### Estilização
-
-- [Material-UI](https://material-ui.com/)
-
-
-#### Testando requisições
-
-- [Insomnia](https://insomnia.rest/)
-- [Postman](https://www.postman.com/)
-
-
-#### Deploy
-
-- [Deploy + Netlify (vídeo)](https://drive.google.com/file/d/1hzlB8dl4m0OnLLY2-WpjSLcU7eYTURRk/view)
-
----
+## Agradecimento
+ 
+ - [Cíntia Fumi](https://github.com/cintiafumi)
+ 
+ - [Monica Yamazaki](https://github.com/moniyama)
+ 
+ - [Caroline Shimada (coautora)](https://github.com/carolineshimada)
